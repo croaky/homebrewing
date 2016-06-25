@@ -17,6 +17,8 @@ Specialty grains:
 [Cara-Pils]: http://www.sanfranciscobrewcraft.com/product_p/gr161.htm
 [extract]: http://www.sanfranciscobrewcraft.com/product_p/mlt101.htm
 
+![grains at San Francisco Brewcraft homebrew store](https://cloud.githubusercontent.com/assets/198/16359711/6c24b958-3af4-11e6-8df7-a7e8baa2019e.JPG)
+
 Hops:
 
 * 1 oz [Nugget] ($3)
@@ -62,6 +64,9 @@ Compost the grains.
 Turn on the flame until pot begins to boil.
 Turn off the flame.
 Add the malt extract, stirring with mash paddle while pouring.
+
+![adding the malt extract](https://cloud.githubusercontent.com/assets/198/16359712/6c26a484-3af4-11e6-8e9e-28d7e80f1c1c.JPG)
+
 Turn on the flame to a vigorous rolling boil for 60 minutes.
 
 Hop schedule:
@@ -73,6 +78,8 @@ Hop schedule:
   ([hop bursting])
 
 [hop bursting]: http://www.eckraus.com/blog/hop-bursting-homebrew-beer
+
+![adding the hops](https://cloud.githubusercontent.com/assets/198/16359709/6c1e677e-3af4-11e6-82dc-9c087925767a.PNG)
 
 Turn off the flame.
 Put lid on the pot.
@@ -107,6 +114,8 @@ and place other end down into secondary.
 Remove airlock from primary.
 Open valve on spigot to drain beer into secondary.
 Leave yeast sediment (trub) behind at bottom of primary.
+
+![first racking](https://cloud.githubusercontent.com/assets/198/16359710/6c226982-3af4-11e6-9e9a-43699ba69a12.JPG)
 
 Attach stopper and airlock to secondary fermenter.
 Move to cool dark area.

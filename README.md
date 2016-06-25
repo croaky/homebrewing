@@ -2,9 +2,9 @@
 
 ## Batches
 
-* [Batch 1][1]
+* [Batch 1, Hop-Bursted IPA][1]
 
-[1]: batches/1.md
+[1]: batches/1-hop-bursted-ipa.md
 
 ## Suppliers
 
