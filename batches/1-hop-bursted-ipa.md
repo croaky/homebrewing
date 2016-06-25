@@ -17,7 +17,9 @@ Specialty grains:
 [Cara-Pils]: http://www.sanfranciscobrewcraft.com/product_p/gr161.htm
 [extract]: http://www.sanfranciscobrewcraft.com/product_p/mlt101.htm
 
-![grains at San Francisco Brewcraft homebrew store](https://cloud.githubusercontent.com/assets/198/16359711/6c24b958-3af4-11e6-8df7-a7e8baa2019e.JPG)
+<img alt="grains at San Francisco Brewcraft homebrew store"
+src="https://cloud.githubusercontent.com/assets/198/16359722/05aa24be-3af5-11e6-80bc-9c204393ef10.png"
+width="420px">
 
 Hops:
 
@@ -65,7 +67,9 @@ Turn on the flame until pot begins to boil.
 Turn off the flame.
 Add the malt extract, stirring with mash paddle while pouring.
 
-![adding the malt extract](https://cloud.githubusercontent.com/assets/198/16359712/6c26a484-3af4-11e6-8e9e-28d7e80f1c1c.JPG)
+<img alt="adding the malt extract"
+src="https://cloud.githubusercontent.com/assets/198/16359712/6c26a484-3af4-11e6-8e9e-28d7e80f1c1c.JPG"
+width="420px">
 
 Turn on the flame to a vigorous rolling boil for 60 minutes.
 
@@ -79,7 +83,9 @@ Hop schedule:
 
 [hop bursting]: http://www.eckraus.com/blog/hop-bursting-homebrew-beer
 
-![adding the hops](https://cloud.githubusercontent.com/assets/198/16359709/6c1e677e-3af4-11e6-82dc-9c087925767a.PNG)
+<img alt="adding the hops"
+src="https://cloud.githubusercontent.com/assets/198/16359709/6c1e677e-3af4-11e6-82dc-9c087925767a.PNG"
+width="420px">
 
 Turn off the flame.
 Put lid on the pot.
@@ -115,7 +121,9 @@ Remove airlock from primary.
 Open valve on spigot to drain beer into secondary.
 Leave yeast sediment (trub) behind at bottom of primary.
 
-![first racking](https://cloud.githubusercontent.com/assets/198/16359710/6c226982-3af4-11e6-9e9a-43699ba69a12.JPG)
+<img alt="first racking"
+src="https://cloud.githubusercontent.com/assets/198/16359723/05b9902a-3af5-11e6-8ef1-33991170d704.png"
+width="420px">
 
 Attach stopper and airlock to secondary fermenter.
 Move to cool dark area.
