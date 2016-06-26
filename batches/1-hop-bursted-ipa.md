@@ -137,6 +137,22 @@ Move to cool dark area.
 
 June 25, 2016
 
+Remove rubber stopper and airlock.
+Use thief to take sample of beer into test tube.
+[Take a hydrometer reading][hydrometer].
+
+[hydrometer]: ../hydrometer.md
+
+This reading was:
+
+```
+1.015, 2% potential alcohol
+```
+
+We forgot to a reading at the beginning of fermentation.
+
+Replace rubber stopper and airlock.
+
 Bring 1 cup of water to a boil in a small saucepan.
 Turn off the flame.
 Stir in 4.5 oz dextrose (priming corn sugar) until fully dissolved.
@@ -149,12 +165,6 @@ Sanitize auto-siphon, tubing, bottle filler, and bottle caps.
 Add a drop of Star-San to each clean bottle.
 Rinse each bottle with water.
 Spray thief, test tube, and hydrometer with Star-San.
-
-Remove rubber stopper and airlock.
-Use thief to take sample of beer into test tube.
-[Take a hydrometer reading][hydrometer].
-
-[hydrometer]: ../hydrometer.md
 
 Insert siphon tube halfway into secondary fermenter
 and stir slowly for a minute.

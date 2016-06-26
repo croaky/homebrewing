@@ -5,7 +5,7 @@
 * [6.5 gallon food-grade fermentation bucket with spigot][bucket] ($24)
 * [Bottle capper][capper] ($20)
 * [Auto siphon][siphon] ($13)
-* [8 oz StarSan sanitizer][star-san] $13)
+* [8 oz StarSan sanitizer][star-san] ($13)
 * [PBW Powdered Brewers Wash][pbw] ($12)
 * [2 mesh bag for BIAB][bag] ($12)
 * [Stainless steel mash paddle][paddle] ($10)
