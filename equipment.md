@@ -43,3 +43,13 @@
 [Thief]: https://squareup.com/store/blacksandsbeer/item/thief
 [kettle]: http://www.northernbrewer.com/tall-boy-kettle-8-gallon
 [bag]: http://www.northernbrewer.com/brewmaster-filter-bag-214-214
+
+## Wishlist
+
+* [Ball lock ("Cornelius") 5-gallon keg][keg] ($135)
+* [CO2 tank][co2] ($35-$135)
+* [C02 regulator][regulator] ($70)
+
+[keg]: https://squareup.com/store/blacksandsbeer/item/keg
+[co2]: https://squareup.com/store/blacksandsbeer/item/co-tank-lb
+[regulator]: https://squareup.com/store/blacksandsbeer/item/co-regulator
