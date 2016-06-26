@@ -1,9 +1,11 @@
 # Hydrometer
 
+Sanitize thief with Star-San.
 Use thief to take sample of beer into test tube.
-Drop hydrometer into test tube.
 
+Drop hydrometer into test tube.
 Spin the hydrometer to dislodge air bubbles.
+
 Record the gravity reading.
 
 Add a thermometer to the liquid.
