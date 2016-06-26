@@ -9,40 +9,40 @@
 * [PBW Powdered Brewers Wash][pbw] ($12)
 * [2 mesh bag for BIAB][bag] ($12)
 * [Stainless steel mash paddle][paddle] ($10)
-* [Thief] ($9)
+* [Thief][thief] ($9)
 * [Floating thermometer][therm] ($7)
-* [Hydrometer] ($7)
+* [Hydrometer][hydro] ($7)
 * [Bottle filler][filler] ($6)
 * [Carboy brush][brush] ($5)
 * [Plastic hoses][hose] ($5)
 * [Bottle caps][caps] ($5)
-* 2 [rubber stoppers] ($4)
+* 2 [rubber stoppers][stop] ($4)
 * [Whirl Flock tablets][tablets] $3)
-* 2 [airlocks] ($2)
-* [Funnel] ($2)
+* 2 [airlocks][airlocks] ($2)
+* [Funnel][funnel] ($2)
 * [Cloth grain steeping bag][steep] ($1)
 
 [airlocks]: http://www.sanfranciscobrewcraft.com/product_p/eq231.htm
-[carboy]: http://www.sanfranciscobrewcraft.com/product_p/eq215.htm
-[siphon]: http://www.sanfranciscobrewcraft.com/product_p/eq229.htm
-[Hydrometer]: http://www.sanfranciscobrewcraft.com/product_p/eq226.htm
-[therm]: http://www.sanfranciscobrewcraft.com/product_p/eq224.htm
+[bag]: http://www.northernbrewer.com/brewmaster-filter-bag-214-214
 [brush]: http://www.sanfranciscobrewcraft.com/product_p/eq217.htm
-[Funnel]: http://www.sanfranciscobrewcraft.com/product_p/eq324.htm
-[steep]: http://www.sanfranciscobrewcraft.com/product_p/eq243.htm
-[hose]: http://www.sanfranciscobrewcraft.com/product_p/eq329.htm
-[rubber stoppers]: http://www.sanfranciscobrewcraft.com/product_p/eq238.htm
 [bucket]: http://www.sanfranciscobrewcraft.com/product_p/eq220.htm
-[tablets]: https://squareup.com/store/blacksandsbeer/item/whirl-flock
-[star-san]: https://squareup.com/store/blacksandsbeer/item/starsan-oz
-[pbw]: https://squareup.com/store/blacksandsbeer/item/pbw-powdered-brewers-wash-lb-1
 [capper]: https://squareup.com/store/blacksandsbeer/item/bottle-capper
 [caps]: https://squareup.com/store/blacksandsbeer/item/bottle-caps
+[carboy]: http://www.sanfranciscobrewcraft.com/product_p/eq215.htm
 [filler]: https://squareup.com/store/blacksandsbeer/item/bottle-filler
-[paddle]: https://squareup.com/store/blacksandsbeer/item/spoon
-[Thief]: https://squareup.com/store/blacksandsbeer/item/thief
+[funnel]: http://www.sanfranciscobrewcraft.com/product_p/eq324.htm
+[hose]: http://www.sanfranciscobrewcraft.com/product_p/eq329.htm
+[hydro]: http://www.sanfranciscobrewcraft.com/product_p/eq226.htm
 [kettle]: http://www.northernbrewer.com/tall-boy-kettle-8-gallon
-[bag]: http://www.northernbrewer.com/brewmaster-filter-bag-214-214
+[paddle]: https://squareup.com/store/blacksandsbeer/item/spoon
+[pbw]: https://squareup.com/store/blacksandsbeer/item/pbw-powdered-brewers-wash-lb-1
+[siphon]: http://www.sanfranciscobrewcraft.com/product_p/eq229.htm
+[star-san]: https://squareup.com/store/blacksandsbeer/item/starsan-oz
+[steep]: http://www.sanfranciscobrewcraft.com/product_p/eq243.htm
+[stop]: http://www.sanfranciscobrewcraft.com/product_p/eq238.htm
+[tablets]: https://squareup.com/store/blacksandsbeer/item/whirl-flock
+[therm]: http://www.sanfranciscobrewcraft.com/product_p/eq224.htm
+[thief]: https://squareup.com/store/blacksandsbeer/item/thief
 
 ## Wishlist
 
