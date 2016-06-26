@@ -20,7 +20,7 @@ Correct the specific gravity based on the temperature of the liquid:
 Use this chart to convert corrected gravity to potential alcohol %:
 
 <img alt="hydrometer chart"
-src="https://cloud.githubusercontent.com/assets/198/16359840/cd2491ce-3af9-11e6-83ed-03c808b74cb0.JPG"
+src="https://cloud.githubusercontent.com/assets/198/16359869/be68b75e-3afa-11e6-909b-606bab4a4d8c.png"
 width="420px">
 
 Take the hydrometer reading right before fermentation
