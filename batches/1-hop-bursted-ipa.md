@@ -100,6 +100,11 @@ Carefully pour the wort from the pot into the fermenter.
 The final volume should be between 5g and 5.5g.
 Stop as soon as the hop sediment on the bottom of the pot starts to flow over.
 
+Use thief to take sample of beer into test tube.
+[Take a hydrometer reading][hydrometer].
+
+[hydrometer]: ../hydrometer.md
+
 Pour the yeast onto the surface of the beer.
 Do not stir.
 Snap on the lid.
@@ -143,6 +148,13 @@ Wait 30m or until sediment re-settles.
 Sanitize auto-siphon, tubing, bottle filler, and bottle caps.
 Add a drop of Star-San to each clean bottle.
 Rinse each bottle with water.
+Spray thief, test tube, and hydrometer with Star-San.
+
+Remove rubber stopper and airlock.
+Use thief to take sample of beer into test tube.
+[Take a hydrometer reading][hydrometer].
+
+[hydrometer]: ../hydrometer.md
 
 Insert siphon tube halfway into secondary fermenter
 and stir slowly for a minute.
