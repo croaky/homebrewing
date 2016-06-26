@@ -6,6 +6,10 @@
 
 [1]: batches/1-hop-bursted-ipa.md
 
+See [ideas for future batches][ideas].
+
+[ideas]: ideas.md
+
 ## Suppliers
 
 See [full equipment list][equipment].

@@ -10,7 +10,7 @@ Specialty grains:
 * 0.5 lbs [Victory] ($1)
 * 0.25 lbs [Cara-Pils] ($1)
 
-7 lbs [light pilsen malt extract][extract] ($20)
+7 lbs [Caramel malt extract][extract] ($20)
 
 [2-Row]: http://www.sanfranciscobrewcraft.com/product_p/gr151.htm
 [Victory]: http://www.sanfranciscobrewcraft.com/product_p/gr159.htm
