@@ -75,10 +75,10 @@ Turn on the flame to a vigorous rolling boil for 60 minutes.
 
 Hop schedule:
 
-* 60m 1 oz Nugget
-* 30m 1 oz Centennial
-* 5m 1 oz Amarillo
-* 0m 1 oz Cascade + 1 oz Mosaic + 1 oz Amarillo
+* 1 oz Nugget at 60 min
+* 1 oz Centennial at 30 min
+* 1 oz Amarillo at 5 min
+* 1 oz Cascade + 1 oz Mosaic + 1 oz Amarillo at 0 min
   ([hop bursting])
 
 [hop bursting]: http://www.eckraus.com/blog/hop-bursting-homebrew-beer

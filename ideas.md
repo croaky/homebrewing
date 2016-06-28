@@ -23,6 +23,11 @@ Saltines, fresh-cut hay, herbal German hops, dollop of fruity yeast.
 [kolsch-k]: http://www.northernbrewer.com/100-kolsch-biab-all-grain-kit
 [kolsch-r]: http://www.northernbrewer.com/documentation/allgrain/BIAB-AG-100PercentKolsch.pdf
 
+Heady Topper clone
+5.5 gallon [recipe][heady-biab-r].
+
+[heady-biab-r]: https://www.reddit.com/r/Homebrewing/comments/1ugqvw/heady_topper_clone_recipe/
+
 ## Partial Extract
 
 Pliny the Elder clone
@@ -92,3 +97,17 @@ West Coast IPA
 Bone dry, dry-hopped, grapefruit, honey.
 
 [west-coast-grain-k]: http://www.northernbrewer.com/cascade-mountains-west-coast-imperial-ipa-all-grain-kit
+
+Avery Liliko'i Kepolo clone 5 gallon recipe, OG 1.055, AE 1.010, IBU 25.
+Belgian wit brewed with passion fruit.
+
+* 5 lbs 2-Row
+* 5 lbs Wheat
+* 0.4 oz Bravo (15.6% alpha acid) at 60 min
+* 0.07 oz Bravo (15.6% alpha acid) at 30 min
+* 0.27 oz Sterling (6.8% alpha acid) at 0 min
+* 2 14 oz packets of [Goya Passion Fruit][goya]
+* Hoegaarden yeast at 19 F for 75% of fermentation,
+  then let climb as high as possible
+
+[goya]: http://www.goya.com/english/product_subcategory/Frozen-Foods/Fruit-Pulps#130
