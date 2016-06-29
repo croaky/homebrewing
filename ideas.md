@@ -9,13 +9,6 @@ Bitter, citrus.
 [michigan-k]: http://www.northernbrewer.com/dead-ringer-ipa-biab-recipe-kit
 [michigan-r]: http://www.northernbrewer.com/documentation/allgrain/BIAB-AG-DeadRinger.pdf
 
-Belgian Farmhouse IPA
-3 gallon [kit][belgian-k] and [recipe][belgian-r].
-Bitter, aromatic.
-
-[belgian-k]: http://www.northernbrewer.com/de-belge-extra-bitter-biab-all-grain-kit
-[belgian-r]: http://www.northernbrewer.com/documentation/allgrain/BIAB-AG-DeBelge.pdf
-
 Kolsch
 3 gallon [kit][kolsch-k] and [recipe][kolsch-r].
 Saltines, fresh-cut hay, herbal German hops, dollop of fruity yeast.
