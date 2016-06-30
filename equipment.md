@@ -49,7 +49,9 @@
 * [Ball lock ("Cornelius") 5-gallon keg][keg] ($135)
 * [CO2 tank][co2] ($35-$135)
 * [C02 regulator][regulator] ($70)
+* [Cornelius keg cooler][cooler] ($40)
 
 [keg]: https://squareup.com/store/blacksandsbeer/item/keg
 [co2]: https://squareup.com/store/blacksandsbeer/item/co-tank-lb
 [regulator]: https://squareup.com/store/blacksandsbeer/item/co-regulator
+[cooler]: http://www.cool-brewing.com/hot-new-products/
