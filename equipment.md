@@ -1,57 +1,74 @@
 # Equipment
 
-* [8-gallon stainless steel Tall Boy brew kettle][kettle] ($99)
-* [5-gallon glass carboy][carboy] ($40)
-* [6.5 gallon food-grade fermentation bucket with spigot][bucket] ($24)
-* [Bottle capper][capper] ($20)
-* [Auto siphon][siphon] ($13)
+Brew day:
+
 * [8 oz StarSan sanitizer][star-san] ($13)
-* [PBW Powdered Brewers Wash][pbw] ($12)
-* [2 mesh bag for BIAB][bag] ($12)
-* [Stainless steel mash paddle][paddle] ($10)
-* [Thief][thief] ($9)
+* [8-gallon stainless steel Tall Boy brew kettle][kettle] ($99)
 * [Floating thermometer][therm] ($7)
-* [Hydrometer][hydro] ($7)
-* [Bottle filler][filler] ($6)
-* [Carboy brush][brush] ($5)
-* [Plastic hoses][hose] ($5)
-* [Bottle caps][caps] ($5)
-* 2 [rubber stoppers][stop] ($4)
+* [Stainless steel mash paddle][paddle] ($10)
+* 2 [mesh bag for BIAB][bag] ($12)
 * [Whirl Flock tablets][tablets] $3)
+* 4 [jumbo stainless steel mesh tea ball][tea] ($20)
+* [Thief][thief] ($9)
+* [Hydrometer][hydro] ($7)
+* [6.5 gallon food-grade fermentation bucket with spigot][bucket] ($24)
+* 2 [rubber stoppers][stop] ($4)
 * 2 [airlocks][airlocks] ($2)
-* [Funnel][funnel] ($2)
-* [Cloth grain steeping bag][steep] ($1)
 
 [airlocks]: http://www.sanfranciscobrewcraft.com/product_p/eq231.htm
 [bag]: http://www.northernbrewer.com/brewmaster-filter-bag-214-214
-[brush]: http://www.sanfranciscobrewcraft.com/product_p/eq217.htm
 [bucket]: http://www.sanfranciscobrewcraft.com/product_p/eq220.htm
-[capper]: https://squareup.com/store/blacksandsbeer/item/bottle-capper
-[caps]: https://squareup.com/store/blacksandsbeer/item/bottle-caps
-[carboy]: http://www.sanfranciscobrewcraft.com/product_p/eq215.htm
-[filler]: https://squareup.com/store/blacksandsbeer/item/bottle-filler
-[funnel]: http://www.sanfranciscobrewcraft.com/product_p/eq324.htm
-[hose]: http://www.sanfranciscobrewcraft.com/product_p/eq329.htm
 [hydro]: http://www.sanfranciscobrewcraft.com/product_p/eq226.htm
 [kettle]: http://www.northernbrewer.com/tall-boy-kettle-8-gallon
 [paddle]: https://squareup.com/store/blacksandsbeer/item/spoon
-[pbw]: https://squareup.com/store/blacksandsbeer/item/pbw-powdered-brewers-wash-lb-1
-[siphon]: http://www.sanfranciscobrewcraft.com/product_p/eq229.htm
 [star-san]: https://squareup.com/store/blacksandsbeer/item/starsan-oz
-[steep]: http://www.sanfranciscobrewcraft.com/product_p/eq243.htm
 [stop]: http://www.sanfranciscobrewcraft.com/product_p/eq238.htm
 [tablets]: https://squareup.com/store/blacksandsbeer/item/whirl-flock
+[tea]: https://www.google.com/express/u/0/product/14279590880465583718_11023597673004059314_10589363
 [therm]: http://www.sanfranciscobrewcraft.com/product_p/eq224.htm
 [thief]: https://squareup.com/store/blacksandsbeer/item/thief
 
+Racking day:
+
+* StarSan sanitizer
+* [5-gallon glass carboy][carboy] ($40)
+* [Funnel][funnel] ($2)
+* [Plastic hoses][hose] ($5)
+
+[carboy]: http://www.sanfranciscobrewcraft.com/product_p/eq215.htm
+[funnel]: http://www.sanfranciscobrewcraft.com/product_p/eq324.htm
+[hose]: http://www.sanfranciscobrewcraft.com/product_p/eq329.htm
+
+Bottling day:
+
+* StarSan sanitizer
+* [Auto siphon][siphon] ($13)
+* Plastic hoses
+* [Bottle filler][filler] ($6)
+* [Bottle caps][caps] ($5)
+* [Bottle capper][capper] ($20)
+* [PBW Powdered Brewers Wash][pbw] ($12)
+* [Carboy brush][brush] ($5)
+
+[brush]: http://www.sanfranciscobrewcraft.com/product_p/eq217.htm
+[capper]: https://squareup.com/store/blacksandsbeer/item/bottle-capper
+[caps]: https://squareup.com/store/blacksandsbeer/item/bottle-caps
+[filler]: https://squareup.com/store/blacksandsbeer/item/bottle-filler
+[pbw]: https://squareup.com/store/blacksandsbeer/item/pbw-powdered-brewers-wash-lb-1
+[siphon]: http://www.sanfranciscobrewcraft.com/product_p/eq229.htm
+
 ## Wishlist
+
+Kegging options:
 
 * [Ball lock ("Cornelius") 5-gallon keg][keg] ($135)
 * [CO2 tank][co2] ($35-$135)
 * [C02 regulator][regulator] ($70)
+* [Flex keg system][flex] ($360)
 * [Cornelius keg cooler][cooler] ($40)
 
 [keg]: https://squareup.com/store/blacksandsbeer/item/keg
 [co2]: https://squareup.com/store/blacksandsbeer/item/co-tank-lb
 [regulator]: https://squareup.com/store/blacksandsbeer/item/co-regulator
 [cooler]: http://www.cool-brewing.com/hot-new-products/
+[flex]: http://www.midwestsupplies.com/draft-brewer-flex-keg-system.html
