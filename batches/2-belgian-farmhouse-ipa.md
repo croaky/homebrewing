@@ -56,7 +56,7 @@ Turn on the flame to a vigorous rolling boil for 60 minutes.
 Hop schedule:
 
 * 1 oz Brewer's Gold at 60 min
-* 1 oz Hallertau at 20 min
+* 2 oz Hallertau at 20 min
 
 With 5 min to go,
 add half a Whirlfloc tablet for beer clarity.
