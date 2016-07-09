@@ -35,29 +35,21 @@ Yeast:
 Saturday, July 9, 2016
 
 Fill 8-gallon pot with 5.5 gallons of water on the gas stovetop.
-Line kettle with mesh bag.
 Heat to 160 degrees.
 Turn off burner.
 
+Line kettle with mesh bag.
 Slowly pour in the grist.
 Stir well to mix, breaking up clumps.
-
-Measure temperature.
-Aim for 150 degrees.
-If cooler, apply low heat to kettle while stirring mash..
-If warmer, add cool water a cup at a time.
-At 150 degrees,
-place the lid on the pot and cover with a thick towel.
+Place the lid on the pot and cover with a thick towel.
 
 Rest for 90 minutes.
 
 Mash out: use low heat to raise temperature to 170 degrees.
 Rest for 10 minutes.
 
-Lift mesh bag out of the kettle.
 Slowly dip the bag of grains in and out of the pot about 10 times.
-Let drain into spare bucket or kettle.
-Any spare wort collected can be added back to wort in boil kettle.
+Lift mesh bag out of the kettle.
 
 Turn on the flame to a vigorous rolling boil for 60 minutes.
 
