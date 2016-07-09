@@ -1,6 +1,6 @@
 # Batch 1, Hop-Bursted IPA
 
-IPA, 5 gallons, partial mash, bottled.
+Hop-bursted IPA, 5 gallons, partial mash, bottled.
 
 ## Ingredients
 
@@ -40,11 +40,11 @@ Yeast:
 
 [yeast]: http://www.sanfranciscobrewcraft.com/product_p/yd120.htm
 
-## Brew day (Sunday)
+## Brew day
 
-June 5, 2016
+Sunday, June 5, 2016
 
-Fill 5-gallon pot with 3 gallons of water on the gas stovetop.
+Fill 8-gallon pot with 3 gallons of water on the gas stovetop.
 Heat to 160 degrees.
 Turn off burner.
 
@@ -97,7 +97,7 @@ Sanitize the fermenter bucket.
 Fill with 3 gallons of water.
 
 Carefully pour the wort from the pot into the fermenter.
-The final volume should be between 5g and 5.5g.
+The final volume should be 5-5.5 gallons.
 Stop as soon as the hop sediment on the bottom of the pot starts to flow over.
 
 Use thief to take sample of beer into test tube.
