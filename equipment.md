@@ -2,6 +2,7 @@
 
 Brew day:
 
+* [pH test strips][ph] ($8)
 * [8 oz StarSan sanitizer][star-san] ($13)
 * [8-gallon stainless steel Tall Boy brew kettle][kettle] ($99)
 * [Floating thermometer][therm] ($7)
@@ -22,6 +23,7 @@ Brew day:
 [hydro]: http://www.sanfranciscobrewcraft.com/product_p/eq226.htm
 [kettle]: http://www.northernbrewer.com/tall-boy-kettle-8-gallon
 [paddle]: https://squareup.com/store/blacksandsbeer/item/spoon
+[ph]: http://www.northernbrewer.com/ph-test-strips-beer-range
 [star-san]: https://squareup.com/store/blacksandsbeer/item/starsan-oz
 [stop]: http://www.sanfranciscobrewcraft.com/product_p/eq238.htm
 [tablets]: https://squareup.com/store/blacksandsbeer/item/whirl-flock
