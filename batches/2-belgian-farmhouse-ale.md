@@ -4,13 +4,11 @@ Target:
 
 * O.G. 1.060
 * 3 gallons
-* 55% efficiency
 
 Actual:
 
 * O.G. 1.062
 * 2.5 gallons
-* 50% efficiency
 
 ## Ingredients
 
