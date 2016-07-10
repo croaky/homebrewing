@@ -7,8 +7,8 @@ Brew day:
 * [Floating thermometer][therm] ($7)
 * [Stainless steel mash paddle][paddle] ($10)
 * 2 [mesh bag for BIAB][bag] ($12)
+* 1oz [Fermcap-S][fermcap] ($4)
 * [Whirl Flock tablets][tablets] $3)
-* 4 [jumbo stainless steel mesh tea ball][tea] ($20)
 * [Thief][thief] ($9)
 * [Hydrometer][hydro] ($7)
 * [6.5 gallon food-grade fermentation bucket with spigot][bucket] ($24)
@@ -18,13 +18,13 @@ Brew day:
 [airlocks]: http://www.sanfranciscobrewcraft.com/product_p/eq231.htm
 [bag]: http://www.northernbrewer.com/brewmaster-filter-bag-214-214
 [bucket]: http://www.sanfranciscobrewcraft.com/product_p/eq220.htm
+[fermcap]: http://www.northernbrewer.com/fermcap-s-1-oz
 [hydro]: http://www.sanfranciscobrewcraft.com/product_p/eq226.htm
 [kettle]: http://www.northernbrewer.com/tall-boy-kettle-8-gallon
 [paddle]: https://squareup.com/store/blacksandsbeer/item/spoon
 [star-san]: https://squareup.com/store/blacksandsbeer/item/starsan-oz
 [stop]: http://www.sanfranciscobrewcraft.com/product_p/eq238.htm
 [tablets]: https://squareup.com/store/blacksandsbeer/item/whirl-flock
-[tea]: https://www.google.com/express/u/0/product/14279590880465583718_11023597673004059314_10589363
 [therm]: http://www.sanfranciscobrewcraft.com/product_p/eq224.htm
 [thief]: https://squareup.com/store/blacksandsbeer/item/thief
 
@@ -58,6 +58,12 @@ Bottling day:
 [siphon]: http://www.sanfranciscobrewcraft.com/product_p/eq229.htm
 
 ## Wishlist
+
+Wort chiller:
+
+* [King Cobra] ($175)
+
+[King Cobra]: http://jadedbrewing.com/products/the-king-cobra
 
 Kegging options:
 
