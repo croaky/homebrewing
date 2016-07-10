@@ -4,11 +4,13 @@ Target:
 
 * O.G. 1.060
 * 3 gallons
+* 55% efficiency
 
 Actual:
 
 * O.G. 1.062
 * 2.5 gallons
+* 50% efficiency
 
 ## Ingredients
 
@@ -38,7 +40,7 @@ Yeast:
 
 Saturday, July 9, 2016
 
-Fill 8-gallon pot with 5.5 gallons of water on the gas stovetop.
+Fill 8-gallon pot with 5 gallons of water on the gas stovetop.
 Heat to 160 degrees.
 Turn off burner.
 
