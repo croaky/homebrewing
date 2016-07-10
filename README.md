@@ -3,10 +3,10 @@
 ## Batches
 
 * [Batch 1, Hop-Bursted IPA][1]
-* [Batch 2, Belgian Farmhouse IPA][2]
+* [Batch 2, Belgian Farmhouse Ale][2]
 
 [1]: batches/1-hop-bursted-ipa.md
-[2]: batches/2-belgian-farmhouse-ipa.md
+[2]: batches/2-belgian-farmhouse-ale.md
 
 See [ideas for future batches][ideas].
 

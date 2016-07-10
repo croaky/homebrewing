@@ -1,10 +1,14 @@
-# Batch 2, Belgian Farmhouse IPA
+# Batch 2, Belgian Farmhouse Ale
 
-Belgian Farmhouse IPA, 3 gallon Brew-In-A-Bag
+Target:
 
-* Target O.G. 1.060
-* 1 week primary
-* 3 weeks bottle conditioning
+* O.G. 1.060
+* 3 gallons
+
+Actual:
+
+* O.G. 1.062
+* 2.5 gallons
 
 ## Ingredients
 
@@ -84,3 +88,8 @@ Fill airlock with small amount of clean water.
 Insert the rubber stopper and airlock.
 
 Move fermenter to dark place where temperatures stay between 65-75 degrees F.
+
+## Fermentation
+
+* 1 week primary
+* 3 weeks bottle conditioning
