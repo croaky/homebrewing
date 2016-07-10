@@ -38,11 +38,12 @@ Fill 8-gallon pot with 5.5 gallons of water on the gas stovetop.
 Heat to 160 degrees.
 Turn off burner.
 
-Line kettle with mesh bag.
-Slowly pour in the grist.
+Pour grist in mesh bag.
+Lower bag into kettle.
+Clamp bag to kettle with binder clips.
 Stir well to mix, breaking up clumps.
-Place the lid on the pot and cover with a thick towel.
 
+Place the lid on the pot and cover with a thick towel.
 Rest for 90 minutes.
 
 Mash out: use low heat to raise temperature to 170 degrees.
@@ -61,15 +62,14 @@ Hop schedule:
 With 5 min to go,
 add half a Whirlfloc tablet for beer clarity.
 
-Turn off the flame.
-Put lid on the pot.
-
 Create ice-water bath in the sink.
+Turn off the flame.
+Move pot into ice-water bath.
 Let the pot cool in the bath until wort is at 70 degrees.
 
 Sanitize the fermenter bucket.
 Add second mesh bag around top of fermenter bucket.
-Carefully pour the wort from the pot into the fermenter.
+Pour the wort from the pot into the fermenter.
 
 Use thief to take sample of beer into test tube.
 [Take a hydrometer reading][hydrometer].
@@ -77,11 +77,10 @@ Use thief to take sample of beer into test tube.
 [hydrometer]: ../hydrometer.md
 
 Pour the yeast onto the surface of the beer.
-Do not stir.
 Snap on the lid.
+Rock the fermenter to aerate the wort.
+
 Fill airlock with small amount of clean water.
 Insert the rubber stopper and airlock.
-
-Rock the fermenter to aerate the wort.
 
 Move fermenter to dark place where temperatures stay between 65-75 degrees F.
