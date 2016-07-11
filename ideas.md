@@ -5,6 +5,12 @@ to scale recipe sizes up and down.
 
 [scale]: http://www.captainbrew.com/create-recipe
 
+Find recipe ideas in books like:
+
+* [IPA][steele] by Mitch Steele
+
+[steele]: https://www.amazon.com/dp/B00FE0LQ8G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
 ## IPA
 
 Pliny the Elder clone
@@ -54,6 +60,18 @@ Green Flash West Coast IPA
 5.5 gallon [recipe][green-flash].
 
 [green-flash]: https://www.homebrewersassociation.org/homebrew-recipe/green-flash-west-coast-ipa/
+
+Hill Farmstead James IPA [recipe][james].
+
+[james]: http://meekbrewingco.blogspot.com/2013/04/brewing-hill-farmstead-james-clone.html
+
+Azacca Brett brux Trois Vrai IPA [recipe][azacca].
+
+[azacca]: http://meekbrewingco.blogspot.com/2016/07/azacca-brett-brux-trois-vrai-ipa.html
+
+Maine Beer Company MO [recipe][mo].
+
+[mo]: http://meekbrewingco.blogspot.com/2014/01/brewing-maine-beer-company-mo-clone-no.html
 
 ## Kolsch
 
