@@ -1,14 +1,10 @@
 # Batch 2, Belgian Farmhouse Ale
 
-Target:
-
-* O.G. 1.060
-* 3 gallons
-
-Actual:
-
 * O.G. 1.062
 * 2.5 gallons
+* [Brewhouse efficiency][eff]: 50%
+
+[eff]: http://www.brewersfriend.com/brewhouse-efficiency/
 
 ## Ingredients
 
@@ -76,9 +72,9 @@ Add second mesh bag around top of fermenter bucket.
 Pour the wort from the pot into the fermenter.
 
 Use thief to take sample of beer into test tube.
-[Take a hydrometer reading][hydrometer].
+[Measure gravity][gravity].
 
-[hydrometer]: ../hydrometer.md
+[gravity]: ../procedures.md#measure-gravity
 
 Pour the yeast onto the surface of the beer.
 Snap on the lid.
@@ -87,9 +83,9 @@ Rock the fermenter to aerate the wort.
 Fill airlock with small amount of clean water.
 Insert the rubber stopper and airlock.
 
-Move fermenter to dark place where temperatures stay between 65-75 degrees F.
-
 ## Fermentation
+
+Ferment at 68° F:
 
 * 1 week primary
 * 3 weeks bottle conditioning

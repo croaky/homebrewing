@@ -2,6 +2,8 @@
 
 Hop-bursted IPA, 5 gallons, partial mash, bottled.
 
+1.015 final gravity (forgot to measure original gravity).
+
 ## Ingredients
 
 Specialty grains:
@@ -100,11 +102,6 @@ Carefully pour the wort from the pot into the fermenter.
 The final volume should be 5-5.5 gallons.
 Stop as soon as the hop sediment on the bottom of the pot starts to flow over.
 
-Use thief to take sample of beer into test tube.
-[Take a hydrometer reading][hydrometer].
-
-[hydrometer]: ../hydrometer.md
-
 Pour the yeast onto the surface of the beer.
 Do not stir.
 Snap on the lid.
@@ -138,18 +135,9 @@ Move to cool dark area.
 June 25, 2016
 
 Remove rubber stopper and airlock.
-Use thief to take sample of beer into test tube.
-[Take a hydrometer reading][hydrometer].
+[Measure gravity][gravity].
 
-[hydrometer]: ../hydrometer.md
-
-This reading was:
-
-```
-1.015, 2% potential alcohol
-```
-
-We forgot to a reading at the beginning of fermentation.
+[gravity]: ../procedures.md#measure-gravity
 
 Replace rubber stopper and airlock.
 

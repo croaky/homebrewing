@@ -1,34 +1,28 @@
 # Ideas
 
-## Brew-in-a-Bag (BIAB)
+Use [this recipe calculator][scale]
+to scale recipe sizes up and down.
 
-Michigan-style IPA
-3 gallon [kit][michigan-k] and [recipe][michigan-r].
-Bitter, citrus.
+[scale]: http://www.captainbrew.com/create-recipe
 
-[michigan-k]: http://www.northernbrewer.com/dead-ringer-ipa-biab-recipe-kit
-[michigan-r]: http://www.northernbrewer.com/documentation/allgrain/BIAB-AG-DeadRinger.pdf
+## IPA
 
-Kolsch
-3 gallon [kit][kolsch-k] and [recipe][kolsch-r].
-Saltines, fresh-cut hay, herbal German hops, dollop of fruity yeast.
+Pliny the Elder clone
+4.5 gallon [recipe][pliny-grain-r].
+Floral, citrus, pine, two dry-hoppings.
 
-[kolsch-k]: http://www.northernbrewer.com/100-kolsch-biab-all-grain-kit
-[kolsch-r]: http://www.northernbrewer.com/documentation/allgrain/BIAB-AG-100PercentKolsch.pdf
+[pliny-grain-r]: http://www.captainbrew.com/scale-recipe/29/4.5
+
+Heady Topper clone
+5 gallon [kit][heady-grain-k].
+Intense hop, fruity pineapple, dank piney-peach, two dry-hoppings.
+
+[heady-grain-k]: http://www.northernbrewer.com/off-the-topper-iipa-all-grain-homebrew-kit
 
 Heady Topper clone
 5.5 gallon [recipe][heady-biab-r].
 
 [heady-biab-r]: https://www.reddit.com/r/Homebrewing/comments/1ugqvw/heady_topper_clone_recipe/
-
-## Partial Extract
-
-Pliny the Elder clone
-6 gallon [kit][pliny-extract-k] and [recipe][pliny-extract-r].
-Floral, citrus, pine, two dry-hoppings.
-
-[pliny-extract-k]: http://www.northernbrewer.com/the-plinian-legacy-double-ipa-recipe-kit
-[pliny-extract-r]: http://www.northernbrewer.com/documentation/beerkits/PlinianLegacy1.pdf
 
 Heady Topper clone
 5 gallon [kit][heady-extract-k] and [recipe][heady-extract-r].
@@ -37,19 +31,40 @@ Intense hop, fruity pineapple, dank piney-peach, two dry-hoppings.
 [heady-extract-k]: http://www.northernbrewer.com/off-the-topper-iipa-homebrew-kit
 [heady-extract-r]: http://www.northernbrewer.com/documentation/beerkits/OfftheTopper.pdf
 
+Michigan-style IPA
+3 gallon [kit][michigan-k] and [recipe][michigan-r].
+Bitter, citrus.
+
+[michigan-k]: http://www.northernbrewer.com/dead-ringer-ipa-biab-recipe-kit
+[michigan-r]: http://www.northernbrewer.com/documentation/allgrain/BIAB-AG-DeadRinger.pdf
+
 Australia-style IPA
-5 gallon [kit][australia-extract-k] and [recipe][australia-extract-r].
+6 gallon [kit][australia-grain-k].
 Sticky tropical fruit, lime oil, Tellicherry peppercorns, earthy funk.
 
-[australia-extract-k]: http://www.northernbrewer.com/kiwi-express-extract-kit-w-specialty-grains
-[australia-extract-r]: http://www.northernbrewer.com/documentation/beerkits/KiwiExpress.pdf
+[australia-grain-k]: http://www.northernbrewer.com/kiwi-express-all-grain-kit
 
 West Coast IPA
-5 gallon [kit][west-coast-extract-k] and [recipe][west-coast-extract-r].
+5 gallon [kit][west-coast-grain-k].
 Bone dry, dry-hopped, grapefruit, honey.
 
-[west-coast-extract-k]: http://www.northernbrewer.com/cascade-mountains-west-coast-imperial-ipa-extract-kit
-[west-coast-extract-r]: http://www.northernbrewer.com/documentation/beerkits/WestCoastImperialIPA.pdf
+[west-coast-grain-k]: http://www.northernbrewer.com/cascade-mountains-west-coast-imperial-ipa-all-grain-kit
+
+Green Flash West Coast IPA
+5.5 gallon [recipe][green-flash].
+
+[green-flash]: https://www.homebrewersassociation.org/homebrew-recipe/green-flash-west-coast-ipa/
+
+## Kolsch
+
+Kolsch
+3 gallon [kit][kolsch-k] and [recipe][kolsch-r].
+Saltines, fresh-cut hay, herbal German hops, dollop of fruity yeast.
+
+[kolsch-k]: http://www.northernbrewer.com/100-kolsch-biab-all-grain-kit
+[kolsch-r]: http://www.northernbrewer.com/documentation/allgrain/BIAB-AG-100PercentKolsch.pdf
+
+## Saison
 
 North Carolina saison
 5 gallon [kit][carolina-extract-k] and [recipe][carolina-extract-r].
@@ -65,31 +80,17 @@ Earthy, spicy, flowery, bready, dry.
 [petite-extract-k]: http://www.northernbrewer.com/petite-saison-d-ete-extract-kit
 [petite-extract-r]: http://www.northernbrewer.com/documentation/beerkits/PetiteSaisondEte.pdf
 
-## All-Grain
+Saison Du Mont
+5.5 gallon [recipe][du-mont].
 
-Pliny the Elder clone
-6 gallon [kit][pliny-grain-k].
-Floral, citrus, pine, two dry-hoppings.
+[du-mont]: https://www.homebrewersassociation.org/homebrew-recipe/beer-recipe-of-the-week-saison-du-mont/
 
-[pliny-grain-k]: http://www.northernbrewer.com/the-plinian-legacy-all-grain-recipe-kit
+Soma Saison
+5 gallon [recipe][soma].
 
-Heady Topper clone
-5 gallon [kit][heady-grain-k].
-Intense hop, fruity pineapple, dank piney-peach, two dry-hoppings.
+[soma]: https://www.homebrewersassociation.org/homebrew-recipe/soma/
 
-[heady-grain-k]: http://www.northernbrewer.com/off-the-topper-iipa-all-grain-homebrew-kit
-
-Australia-style IPA
-6 gallon [kit][australia-grain-k].
-Sticky tropical fruit, lime oil, Tellicherry peppercorns, earthy funk.
-
-[australia-grain-k]: http://www.northernbrewer.com/kiwi-express-all-grain-kit
-
-West Coast IPA
-5 gallon [kit][west-coast-grain-k].
-Bone dry, dry-hopped, grapefruit, honey.
-
-[west-coast-grain-k]: http://www.northernbrewer.com/cascade-mountains-west-coast-imperial-ipa-all-grain-kit
+## Fruit, Sour, Funk
 
 Avery Liliko'i Kepolo clone 5 gallon recipe, OG 1.055, AE 1.010, IBU 25.
 Belgian wit brewed with passion fruit.
@@ -104,3 +105,36 @@ Belgian wit brewed with passion fruit.
   then let climb as high as possible
 
 [goya]: http://www.goya.com/english/product_subcategory/Frozen-Foods/Fruit-Pulps#130
+
+Brett Strawberry Farmhouse
+5 gallon [recipe][brett-straw].
+
+[brett-straw]: https://www.homebrewersassociation.org/homebrew-recipe/brett-strawberry-farmhouse/
+
+Sour Blonde with Apricot
+5.5 gallon [recipe][blonde-apricot]
+with Brettanomyces.
+
+[blonde-apricot]: https://www.homebrewersassociation.org/homebrew-recipe/sour-blonde-with-apricot/
+
+Grapefruit Hefeweizen
+5 gallon [recipe][grapefruit-hefe].
+
+[grapefruit-hefe]: https://www.homebrewersassociation.org/homebrew-recipe/oh-my-eye-grapefruit-hefeweizen/
+
+Dollar to Döllnitz Gose
+5.5 gallon [recipe][gose].
+
+[gose]: https://www.homebrewersassociation.org/homebrew-recipe/dollar-to-dollnitz-gose/
+
+## Stout
+
+Split Open and Melt Stout
+5 gallon [recipe][split].
+
+[split]: https://www.homebrewersassociation.org/homebrew-recipe/split-open-and-melt-2/
+
+North Coast Old Rasputin Russian Imperial Stout
+5 gallon [recipe][old-rasputin].
+
+[old-rasputin]: https://www.homebrewersassociation.org/homebrew-recipe/north-coast-old-rasputin-clone/
