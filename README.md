@@ -23,7 +23,7 @@ to scale recipe sizes up and down.
 ### IPA
 
 * [Australian IPA][australian-ipa]
-* [Azacca Brett brux Trois Vrai IPA][azacca]
+* [Azacca Brett Brux Trois Vrai IPA][azacca]
 * [Heady Topper][heady-topper]
 * [Hill Farmstead James IPA][james]
 * [Maine Beer Company MO][mo]
@@ -69,8 +69,8 @@ to scale recipe sizes up and down.
 * [North Coast Old Rasputin Russian Imperial Stout][old-rasputin]
 * [Split Open and Melt Stout][split]
 
-[split]: recipes/split.md
 [old-rasputin]: recipes/north-coast-rasputin-russian-imperial-stout.md
+[split]: recipes/split.md
 
 ## Suppliers
 
@@ -79,23 +79,23 @@ See [full equipment list][equipment].
 [equipment]: equipment.md
 
 * [Black Sands][black], Lower Haight, San Francisco
+* [Ferment Drink Repeat][ferment], Portola, San Francisco
 * [Northern Brewer][northern], online
+* [Oak Barrel Winecraft][oak], Berkeley
 * [San Francisco Brewcraft][brewcraft], Outer Richmond, San Francisco
 * [The Yeast Bay][yeast-bay], online
-* [Oak Barrel Winecraft][oak], Berkeley
-* [Ferment Drink Repeat][ferment], Portola, San Francisco
 
 [black]: https://squareup.com/store/blacksandsbeer/
 [brewcraft]: https://www.sanfranciscobrewcraft.com/
-[northern]: http://www.northernbrewer.com/
-[yeast-bay]: http://www.theyeastbay.com/
-[oak]: http://oakbarrel.com/
 [ferment]: http://www.fermentdrinkrepeat.com/homebrew-shop/
+[northern]: http://www.northernbrewer.com/
+[oak]: http://oakbarrel.com/
+[yeast-bay]: http://www.theyeastbay.com/
 
 ## Community
 
-* [San Francisco Homebrewer's Guild][guild]
 * [Bare Bottle Homebrew Competitions][bare]
+* [San Francisco Homebrewer's Guild][guild]
 
-[guild]: http://www.sfhomebrewersguild.com/
 [bare]: http://www.barebottlebeer.com/?page_id=587
+[guild]: http://www.sfhomebrewersguild.com/
