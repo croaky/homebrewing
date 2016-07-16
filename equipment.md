@@ -9,7 +9,7 @@ Brew day:
 * [Stainless steel mash paddle][paddle] ($10)
 * 2 [mesh bag for BIAB][bag] ($12)
 * 1oz [Fermcap-S][fermcap] ($4)
-* [Whirl Flock tablets][tablets] $3)
+* [Whirlfloc][tablets] $3)
 * [Thief][thief] ($9)
 * [Hydrometer][hydro] ($7)
 * [6.5 gallon food-grade fermentation bucket with spigot][bucket] ($24)
@@ -34,11 +34,9 @@ Racking day:
 
 * StarSan sanitizer
 * [5-gallon glass carboy][carboy] ($40)
-* [Funnel][funnel] ($2)
 * [Plastic hoses][hose] ($5)
 
 [carboy]: http://www.sanfranciscobrewcraft.com/product_p/eq215.htm
-[funnel]: http://www.sanfranciscobrewcraft.com/product_p/eq324.htm
 [hose]: http://www.sanfranciscobrewcraft.com/product_p/eq329.htm
 
 Bottling day:
@@ -50,9 +48,7 @@ Bottling day:
 * [Bottle caps][caps] ($5)
 * [Bottle capper][capper] ($20)
 * [PBW Powdered Brewers Wash][pbw] ($12)
-* [Carboy brush][brush] ($5)
 
-[brush]: http://www.sanfranciscobrewcraft.com/product_p/eq217.htm
 [capper]: https://squareup.com/store/blacksandsbeer/item/bottle-capper
 [caps]: https://squareup.com/store/blacksandsbeer/item/bottle-caps
 [filler]: https://squareup.com/store/blacksandsbeer/item/bottle-filler
