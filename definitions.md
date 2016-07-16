@@ -1,4 +1,4 @@
-# Terms
+# Definitions
 
 Definitions for quick reference.
 Mostly from [AHA's Homebrewpedia][AHA].

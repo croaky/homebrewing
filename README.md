@@ -1,8 +1,8 @@
 # Homebrewing
 
-See [terms] and [procedures].
+See [definitions] and [procedures].
 
-[terms]: terms.md
+[definitions]: definitions.md
 [procedures]: procedures.md
 
 ## Batches
