@@ -23,24 +23,16 @@ to scale recipe sizes up and down.
 ### IPA
 
 * [Australian IPA][australian-ipa]
-* [Azacca Brett Brux Trois Vrai IPA][azacca]
 * [Heady Topper][heady-topper]
 * [Hill Farmstead James IPA][james]
 * [Maine Beer Company MO][mo]
 * [Pliny the Elder][pliny-the-elder]
 
 [australian-ipa]: recipes/australian-ipa.md
-[azacca]: recipes/azacca-brett-brux-trois-vrai-ipa.md
 [heady-topper]: recipes/heady-topper.md
 [james]: recipes/hill-farmstead-james-ipa.md
 [mo]: recipes/maine-beer-company-mo.md
 [pliny-the-elder]: recipes/pliny-the-elder.md
-
-### Kolsch
-
-* [Kolsch][kolsch]
-
-[kolsch]: recipes/kolsch.md
 
 ### Saison
 
@@ -63,14 +55,6 @@ to scale recipe sizes up and down.
 [gose]: recipes/dollar-to-dollnitz-gose.md
 [grapefruit-hefe]: recipes/grapefruit-hefeweizen.md
 [lilikoi]: recipes/lilikoi.md
-
-### Stout
-
-* [North Coast Old Rasputin Russian Imperial Stout][old-rasputin]
-* [Split Open and Melt Stout][split]
-
-[old-rasputin]: recipes/north-coast-rasputin-russian-imperial-stout.md
-[split]: recipes/split.md
 
 ## Suppliers
 
