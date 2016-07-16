@@ -110,9 +110,9 @@ Insert the rubber stopper and airlock.
 
 Move fermenter to dark place where temperatures stay between 65-75 degrees F.
 
-## Racking day (6 days after brewing, Saturday)
+## Racking day
 
-June 11, 2016
+6 days after brewing, Saturday, June 11, 2016
 
 Place fermenter bucket on a table.
 Sanitize glass carboy ("secondary fermenter"), tubing, stopper, and airlock.
@@ -130,9 +130,9 @@ width="420px">
 Attach stopper and airlock to secondary fermenter.
 Move to cool dark area.
 
-## Bottling day (14 days after racking, Saturday)
+## Bottling day
 
-June 25, 2016
+14 days after racking, Saturday, June 25, 2016
 
 Remove rubber stopper and airlock.
 [Measure gravity][gravity].
