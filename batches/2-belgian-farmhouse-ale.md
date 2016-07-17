@@ -4,7 +4,7 @@
 * 2.5 gallons
 * [Brewhouse efficiency][eff]: 50%
 
-[eff]: http://www.brewersfriend.com/brewhouse-efficiency/
+[eff]: ../definitions#brewhouse-efficiency.md
 
 ## Ingredients
 

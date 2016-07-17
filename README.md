@@ -58,7 +58,7 @@ to scale recipe sizes up and down.
 
 ## Suppliers
 
-See [full equipment list][equipment].
+See [current equipment list][equipment].
 
 [equipment]: equipment.md
 
@@ -78,7 +78,7 @@ See [full equipment list][equipment].
 
 ## Community
 
-* [Bare Bottle Homebrew Competitions][bare]
+* [Barebottle Homebrew Competitions][bare]
 * [San Francisco Homebrewer's Guild][guild]
 
 [bare]: http://www.barebottlebeer.com/?page_id=587
