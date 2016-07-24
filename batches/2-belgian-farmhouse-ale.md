@@ -144,5 +144,20 @@ width="420px">
 
 Ferment at 68° F:
 
-* 1 week primary
-* 3 weeks bottle conditioning
+* 2 week primary
+* 2 weeks bottle conditioning
+
+## Bottling day
+
+15 days after brewing, Sunday, July 24, 2016
+
+Following [bottling procedure][bottling].
+
+[bottling]: ../procedures.md#bottling
+
+<img alt="final gravity at 70 degrees"
+src="https://cloud.githubusercontent.com/assets/198/17086231/e1cd70e6-51a1-11e6-901a-9315ae6da14e.JPG"
+width="420px">
+
+Store the bottles somewhere dark, between 65-75 degrees F.
+Carbonation usually takes 2 weeks.

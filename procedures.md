@@ -24,6 +24,50 @@ DONTs:
 > brewing process. Aerating the cooled wort, for example, favors the growth and
 > multiplication of yeast cells before fermentation begins.
 
+## Bottling
+
+Remove rubber stopper and airlock.
+[Measure gravity][gravity].
+
+[gravity]: ../procedures.md#measure-gravity
+
+Replace rubber stopper and airlock.
+
+Bring 1 cup of water to a boil in a small saucepan.
+Turn off the flame.
+Stir in 4.5 oz dextrose (priming corn sugar) until fully dissolved.
+
+Place secondary fermenter on a table.
+Carefully pour priming mixture into fermenter.
+Wait 30m or until sediment re-settles.
+
+Sanitize auto-siphon, tubing, bottle filler, and bottle caps.
+Add a drop of Star-San to each clean bottle.
+Rinse each bottle with water.
+Spray thief, test tube, and hydrometer with Star-San.
+
+Insert siphon tube halfway into secondary fermenter
+and stir slowly for a minute.
+While holding the siphon half way into the fermenter,
+raise the inner tube to draw beer into the larger outer tube.
+
+Have a friend push down on the bottle filler inside a bottle
+so the spring-valve opens.
+Now push the smaller siphon tube down into the larger tube,
+forcing the beer up and through.
+Gently lower the siphoning unit to the bottom of the carboy.
+
+Fill bottles almost all the way,
+as removal of the filler leaves the proper amount of head space
+in the bottles (about an inch).
+
+Allow the bottles to sit with the caps sitting loosely on top
+until all the bottles are full so that carbon dioxide
+has a chance to accumulate in the head space and displace
+any unwanted oxygen.
+
+Use the bottle capper to fasten the bottle caps on tightly.
+
 ## Brew In A Bag (BIAB)
 
 The [Basics of BIAB][basics].
