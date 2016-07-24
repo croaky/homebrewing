@@ -29,7 +29,7 @@ DONTs:
 Remove rubber stopper and airlock.
 [Measure gravity][gravity].
 
-[gravity]: ../procedures.md#measure-gravity
+[gravity]: procedures.md#measure-gravity
 
 Replace rubber stopper and airlock.
 
