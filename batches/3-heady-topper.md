@@ -8,11 +8,14 @@ Intense hop, fruity pineapple, dank piney-peach, two dry-hoppings.
 
 Sunday, July 31, 2016
 
-Fill 8-gallon pot with 6.5 gallons of water on the gas stovetop.
+Fill 8-gallon pot with 5.5 gallons of water on the gas stovetop.
+Add 10 drops of [Fermcap-S][fermcap].
 Lower bag into kettle.
 Clamp bag to kettle with binder clips.
 Pour grist in mesh bag.
 Stir well to mix, breaking up clumps.
+
+[fermcap]: http://www.northernbrewer.com/fermcap-s-1-oz
 
 Heat to 153 degrees.
 Turn off burner.
