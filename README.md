@@ -9,9 +9,11 @@ See [definitions] and [procedures].
 
 * [Batch 1, Hop-Bursted IPA][1]
 * [Batch 2, Belgian Farmhouse Ale][2]
+* [Batch 3, Heady Topper][3]
 
 [1]: batches/1-hop-bursted-ipa.md
 [2]: batches/2-belgian-farmhouse-ale.md
+[3]: batches/3-heady-topper.md
 
 ## Ideas
 
@@ -23,13 +25,11 @@ to scale recipe sizes up and down.
 ### IPA
 
 * [Australian IPA][australian-ipa]
-* [Heady Topper][heady-topper]
 * [Hill Farmstead James IPA][james]
 * [Maine Beer Company MO][mo]
 * [Pliny the Elder][pliny-the-elder]
 
 [australian-ipa]: recipes/australian-ipa.md
-[heady-topper]: recipes/heady-topper.md
 [james]: recipes/hill-farmstead-james-ipa.md
 [mo]: recipes/maine-beer-company-mo.md
 [pliny-the-elder]: recipes/pliny-the-elder.md
