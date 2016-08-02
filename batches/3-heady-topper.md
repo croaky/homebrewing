@@ -2,7 +2,7 @@
 
 Intense hop, fruity pineapple, dank piney-peach, two dry-hoppings.
 
-5 gallons, O.G 1.070, ABV 8.0%, ready in 6 weeks
+3.5 gallons, O.G 1.085, ready in 6 weeks
 
 ## Brew day
 
