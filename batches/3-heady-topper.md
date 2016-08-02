@@ -96,17 +96,12 @@ Day 8 dry hops:
 
 * 1 oz Amarillo
 * 1 oz Simcoe
-## Bottling day
 
-15 days after brewing, Sunday, July 24, 2016
+## Bottling day
 
 Following [bottling procedure][bottling].
 
 [bottling]: ../procedures.md#bottling
-
-<img alt="final gravity at 70 degrees"
-src="https://cloud.githubusercontent.com/assets/198/17086254/491e484c-51a2-11e6-8688-d5ffb5cf5b14.png"
-width="420px">
 
 Store the bottles somewhere dark, between 65-75 degrees F.
 Carbonation usually takes 2 weeks.
