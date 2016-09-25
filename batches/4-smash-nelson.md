@@ -1,12 +1,20 @@
-# Batch 3, Heady Topper clone
+# Batch 4, SMASH Nelson clone
 
-Intense hop, fruity pineapple, dank piney-peach, two dry-hoppings.
+3.5 gallons, O.G 1.055, F.G. 1.010, ready in 6 weeks
 
-3.5 gallons, O.G 1.085, ready in 6 weeks
+> First beer ever brewed in house by Black Sands. SMASH stands for "Single Malt
+> & Single Hop". SMASH concept and challenge is to use the least amount of
+> ingredients to make beer. The skill is all in process and technique to execute
+> a perfect beer out of water, malt, hops, yeast, time and temperature. Further
+> we're releasing 12 SMASH beers and a new one should come out each month. More
+> on this Later. We use Rahr Pale Ale Malted Barley and Nelson Sauvin Hops from
+> New Zealand. - 6.8% abv This beer was dry hopped w/ 2 lbs alone.
+
+- [Black Sands](http://www.blacksandsbeer.com/recipes)
 
 ## Brew day
 
-Sunday, July 31, 2016
+Sunday, September 25, 2016
 
 Fill 8-gallon pot with 5.5 gallons of water on the gas stovetop.
 Add 10 drops of [Fermcap-S][fermcap].
@@ -23,13 +31,9 @@ Place the lid on the pot and cover with a thick towel.
 
 Mash rest at 153° F for 60 minutes:
 
-* 13 lb [Fawcett Pearl Malt][fawcett]
-* 1 lb [Rahr White Wheat Malt][rahr]
-* 1 lb turbinado / [Brun Leger][sugar] sugar (10 min)
+* 10 lb [Rahr Pale Ale Malt][rahr]
 
-[fawcett]: http://www.northernbrewer.com/thomas-fawcett-and-sons-pearl-malt
 [rahr]: http://www.northernbrewer.com/rahr-white-wheat-malt
-[sugar]: http://www.northernbrewer.com/brun-leger-soft-candi-sugar-1-lb
 
 Slowly dip the bag of grains in and out of the pot about 10 times.
 Lift mesh bag out of the kettle.
@@ -39,7 +43,10 @@ Turn on the flame to a vigorous rolling boil for 60 minutes.
 
 Hop schedule:
 
-* 1 oz Simcoe (30 min)
+* 1 oz Nelson Sauvin (60 min)
+* 0.5 oz Nelson Sauvin (15 min)
+* 0.5 oz Nelson Sauvin (10 min)
+* 0.5 oz Nelson Sauvin (5 min)
 
 With 5 min to go,
 add half a Whirlfloc tablet for beer clarity.
@@ -47,11 +54,7 @@ add half a Whirlfloc tablet for beer clarity.
 At flame out, add the following hops
 and allow to stand for 30 min:
 
-* 1 oz Amarillo
-* 1 oz Centennial
-* 1 oz Simcoe
-* 0.5 oz Apollo
-* 0.5 oz Columbus
+* 1 oz Nelson Sauvin
 
 Create ice-water bath in the sink.
 Turn off the flame.
@@ -69,7 +72,7 @@ Use thief to take sample of beer into test tube.
 
 Pitch the yeast into the beer:
 
-* The Yeast Bay: Vermont Ale Yeast at 68° F
+* Wyeast 1056 American Ale liquid yeast at 68° F
 
 Snap on the lid.
 Rock the fermenter to aerate the wort.
@@ -81,20 +84,12 @@ Insert the rubber stopper and airlock.
 
 Ferment at 68° F:
 
-* 4 weeks primary
-* 2 weeks bottle conditioning
+* 3 weeks primary
+* 3 weeks bottle conditioning
 
 Day 4 dry hops:
 
-* 1 oz Centennial
-* 1 oz Simcoe
-* 0.5 oz Apollo
-* 0.5 oz Columbus
-
-Day 8 dry hops:
-
-* 1 oz Amarillo
-* 1 oz Simcoe
+* 2 oz Nelson Sauvin
 
 ## Bottling day
 
@@ -102,7 +97,4 @@ Following [bottling procedure][bottling].
 
 [bottling]: ../procedures.md#bottling
 
-![1.020 gravity reading](https://cloud.githubusercontent.com/assets/198/18817272/81f5aaf2-8311-11e6-839d-9ff2c0b3b9aa.JPG)
-
 Store the bottles somewhere dark, between 65-75 degrees F.
-Carbonation usually takes 2 weeks.
