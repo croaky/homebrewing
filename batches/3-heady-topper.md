@@ -103,5 +103,7 @@ Following [bottling procedure][bottling].
 
 [bottling]: ../procedures.md#bottling
 
+![1.020 gravity reading](https://cloud.githubusercontent.com/assets/198/18817272/81f5aaf2-8311-11e6-839d-9ff2c0b3b9aa.JPG)
+
 Store the bottles somewhere dark, between 65-75 degrees F.
 Carbonation usually takes 2 weeks.
