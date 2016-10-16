@@ -13,7 +13,6 @@ DONTs:
 
 * [Mash out][under]
 * [No chill][no-chill]
-* Rack to a secondary fermenter
 
 [under]: http://www.braukaiser.com/wiki/index.php?title=Understanding_Efficiency
 [no-chill]: http://brulosophy.com/2015/02/09/a-year-of-no-chill-lessons-from-a-secret-xbmt/
@@ -124,3 +123,7 @@ and right before bottling/kegging (after fermentation).
 Use this [ABV calculator][abv-calc] to calculate ABV.
 
 [abv-calc]: http://www.brewersfriend.com/abv-calculator/
+
+## Kegging
+
+[How to Keg](https://www.homebrewersassociation.org/attachments/0000/1312/Summerzym95-Kegging_How-To.pdf)
