@@ -91,10 +91,8 @@ Day 4 dry hops:
 
 * 2 oz Nelson Sauvin
 
-## Bottling day
+## Kegging day
 
-Following [bottling procedure][bottling].
+Following [kegging procedure][kegging].
 
-[bottling]: ../procedures.md#bottling
-
-Store the bottles somewhere dark, between 65-75 degrees F.
+[kegging]: ../procedures.md#kegging

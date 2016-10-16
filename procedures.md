@@ -126,4 +126,48 @@ Use this [ABV calculator][abv-calc] to calculate ABV.
 
 ## Kegging
 
-[How to Keg](https://www.homebrewersassociation.org/attachments/0000/1312/Summerzym95-Kegging_How-To.pdf)
+[![How to Keg](https://cloud.githubusercontent.com/assets/198/19420122/d1e12526-9399-11e6-9b14-afc101f4c732.png)][how-to-keg]
+
+[how-to-keg]: https://www.homebrewersassociation.org/attachments/0000/1312/Summerzym95-Kegging_How-To.pdf
+
+Cold-crash fermenter in ice-water bath in sink.
+
+Sanitize keg with 5 gallons of water and one half-ounce of Star-San.
+Seal hatch, let sit for 10 minutes.
+Turn keg upside down, let sit for 10 minutes.
+Empty it.
+
+Connect the CO2 tank to the keg.
+Turn CO2 tank on for 10 seconds at 5 psi.
+This allows CO2 to enter keg, sink to bottom.
+
+Rack the beer from fermenter to bottom of keg.
+Seal the hatch.
+Set the regulator to 5 psi.
+
+Fill head space of keg with CO2 (listen for gas to stop flowing).
+Turn off CO2.
+Open keg release valve ("burp").
+Fill keg with CO2 again.
+Turn off CO2.
+Burp.
+Fill keg with CO2 again.
+This purges any remaining air from head space in keg,
+avoiding oxidation.
+
+Use [Table 1 in "How to Keg"][how-to-keg] to determine target PSI.
+For my typical 3.5 gallons after a BIAB,
+for saisons and IPAs,
+after a cold crash,
+I target a 10-15 PSI range.
+
+Set the target PSI, turn gas on.
+Listen for gas to flow,
+rocking the keg to agitate.
+This should take about 15 minutes.
+
+Disconnect the gas, let the keg settle for about an hour.
+
+To sample, attach gas line and beer line.
+My gas line and beer lines are each 5 feet, 3/16".
+Set gas to 10-20 PSI range, to taste.
