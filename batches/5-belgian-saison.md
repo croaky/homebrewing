@@ -44,17 +44,6 @@ Mash rest at 153° F for 50 minutes:
 src="https://cloud.githubusercontent.com/assets/198/16359722/05aa24be-3af5-11e6-80bc-9c204393ef10.png"
 width="420px">
 
-Mash out: use low heat to raise temperature to 170 degrees.
-Rest for 10 minutes.
-
-<img alt="mash out"
-src="https://cloud.githubusercontent.com/assets/198/16896033/481f480e-4b3c-11e6-9946-ba3da065084b.jpg"
-width="420px">
-
-Slowly dip the bag of grains in and out of the pot about 10 times.
-
-Turn on the flame until pot begins to boil.
-Turn off the flame.
 Add the [Briess Bavarian Wheat dried malt extract][extract],
 stirring with mash paddle while pouring.
 
@@ -63,6 +52,15 @@ stirring with mash paddle while pouring.
 <img alt="malt extract"
 src="https://cloud.githubusercontent.com/assets/198/20651518/faa6ff08-b49b-11e6-8785-3ff0c66943f3.JPG"
 width="420px">
+
+Mash out: use low heat to raise temperature to 170 degrees.
+Rest for 10 minutes.
+
+<img alt="mash out"
+src="https://cloud.githubusercontent.com/assets/198/16896033/481f480e-4b3c-11e6-9946-ba3da065084b.jpg"
+width="420px">
+
+Slowly dip the bag of grains in and out of the pot about 10 times.
 
 Lift mesh bag out of the kettle.
 Keep dog away from mash.
