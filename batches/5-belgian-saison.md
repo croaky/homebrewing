@@ -52,6 +52,18 @@ src="https://cloud.githubusercontent.com/assets/198/16896033/481f480e-4b3c-11e6-
 width="420px">
 
 Slowly dip the bag of grains in and out of the pot about 10 times.
+
+Turn on the flame until pot begins to boil.
+Turn off the flame.
+Add the [Briess Bavarian Wheat dried malt extract][extract],
+stirring with mash paddle while pouring.
+
+[extract]: http://www.brewingwithbriess.com/Products/Extracts.htm#BavarianWheat
+
+<img alt="malt extract"
+src="https://cloud.githubusercontent.com/assets/198/20651518/faa6ff08-b49b-11e6-8785-3ff0c66943f3.JPG"
+width="420px">
+
 Lift mesh bag out of the kettle.
 Keep dog away from mash.
 
@@ -65,17 +77,6 @@ width="420px">
 
 <img alt="keep dog away from mash"
 src="https://cloud.githubusercontent.com/assets/198/16896047/a36bf5d6-4b3c-11e6-8c28-4e57003794c7.jpg"
-width="420px">
-
-Turn on the flame until pot begins to boil.
-Turn off the flame.
-Add the [Briess Bavarian Wheat dried malt extract[extract],
-stirring with mash paddle while pouring.
-
-[extract]: http://www.brewingwithbriess.com/Products/Extracts.htm#BavarianWheat
-
-<img alt="malt extract"
-src="https://cloud.githubusercontent.com/assets/198/20651468/fc209fb6-b49a-11e6-86ce-0c69e7ca0e2d.JPG"
 width="420px">
 
 Turn on the flame again to a vigorous rolling boil for 60 minutes.
@@ -122,9 +123,8 @@ width="420px">
 src="https://cloud.githubusercontent.com/assets/198/16896076/656fbcd0-4b3d-11e6-8b7b-ae72f45a3d51.jpg"
 width="420px">
 
-Pitch the yeast into the beer:
-
-* [White Labs WLP566 Belgian Saison II liquid yeast][yeast] at 68° F
+Pitch the [White Labs WLP566 Belgian Saison II liquid yeast][yeast]
+into the beer.
 
 [yeast]: http://www.whitelabs.com/yeast-bank/wlp566-belgian-saison-ii-yeast
 
