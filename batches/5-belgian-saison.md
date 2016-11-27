@@ -63,7 +63,6 @@ width="420px">
 Slowly dip the bag of grains in and out of the pot about 10 times.
 
 Lift mesh bag out of the kettle.
-Keep dog away from mash.
 
 <img alt="remove bag"
 src="https://cloud.githubusercontent.com/assets/198/16896040/7ae0f724-4b3c-11e6-9668-798add1c6f68.jpg"
@@ -72,6 +71,8 @@ width="420px">
 <img alt="bag removed"
 src="https://cloud.githubusercontent.com/assets/198/16896046/917c54a6-4b3c-11e6-89e7-49e5149c2ae3.jpg"
 width="420px">
+
+Keep dog away from mash.
 
 <img alt="keep dog away from mash"
 src="https://cloud.githubusercontent.com/assets/198/16896047/a36bf5d6-4b3c-11e6-8c28-4e57003794c7.jpg"
