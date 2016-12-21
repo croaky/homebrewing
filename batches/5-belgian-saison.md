@@ -1,6 +1,6 @@
 # Batch 5, Belgian Saison
 
-5 gallons, O.G ???, F.G. ???, kegged in 26 days
+5 gallons, O.G 1.062, F.G. 1.01, ABV 6.8%, kegged in 26 days
 
 ## Brew day
 
