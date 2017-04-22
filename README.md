@@ -11,13 +11,15 @@ See [definitions] and [procedures].
 * [Batch 2, Belgian Farmhouse Ale][2] (good)
 * [Batch 3, Heady Topper][3] (bad)
 * [Batch 4, SMASH Nelson][4] (okay)
-* [Batch 5, Belgian Saison][5] (?)
+* [Batch 5, Belgian Saison][5] (okay)
+* [Batch 6, Northeast IPA][6] (?)
 
 [1]: batches/1-hop-bursted-ipa.md
 [2]: batches/2-belgian-farmhouse-ale.md
 [3]: batches/3-heady-topper.md
 [4]: batches/4-smash-nelson.md
 [5]: batches/5-belgian-saison.md
+[6]: batches/6-northeast-ipa.md
 
 ## Ideas
 
