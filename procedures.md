@@ -1,88 +1,121 @@
-# Procedures
+# Procedures for Croaky Brewhouse
 
-Common procedures, isolated for linking.
+70% [brewhouse efficiency][eff].
+
+[eff]: ../definitions#brewhouse-efficiency.md
 
 DOs:
 
-* Aerate
-* Brew in a bag
-* Dry hop
-* Measure gravity
+* Brew In a Bag
+* Single fermentation in food-grade plastic bucket
+* Keg
 
 DONTs:
 
 * [Mash out][under]
 * [No chill][no-chill]
-* Add Whirlfloc for clarity. Keep it hazy.
+* Add Whirlfloc or Irish moss for clarity. Keep it hazy.
+* No secondary fermentation in glass carboy.
 
 [under]: http://www.braukaiser.com/wiki/index.php?title=Understanding_Efficiency
 [no-chill]: http://brulosophy.com/2015/02/09/a-year-of-no-chill-lessons-from-a-secret-xbmt/
 
-## Aerate
+## Brew
 
-> The action of impregnating with or exposing to air at various stages of the
-> brewing process. Aerating the cooled wort, for example, favors the growth and
-> multiplication of yeast cells before fermentation begins.
+Fill 8-gallon pot with 6.5 gallons of water on the gas stovetop.
+Add 10 drops of [Fermcap-S][fermcap].
+Heat to 150 degrees.
+Turn off burner.
 
-## Bottling
+[fermcap]: http://www.northernbrewer.com/fermcap-s-1-oz
 
-Remove rubber stopper and airlock.
+Lower mesh bag into kettle.
+Clamp bag to kettle with binder clips.
+
+<img alt="mesh bag with binder clips"
+src="https://cloud.githubusercontent.com/assets/198/16896016/d99ac5a2-4b3b-11e6-9e19-0a62fab4d7cd.jpg"
+width="420px">
+
+Pour grist slowly in mesh bag.
+Stir well to mix, breaking up clumps.
+Avoid air pockets.
+
+<img alt="pour grain"
+src="https://cloud.githubusercontent.com/assets/198/16896023/0be9dfca-4b3c-11e6-8091-4d375f7d7e49.jpg"
+width="420px">
+
+Place the lid on the pot and cover with a thick towel.
+
+<img alt="mash rest"
+src="https://cloud.githubusercontent.com/assets/198/16896028/1ed3eaf4-4b3c-11e6-9461-8278ac5a6589.jpg"
+width="420px">
+
+Mash rest for 90 minutes.
+Slowly lift mesh bag out of the kettle.
+
+<img alt="remove bag"
+src="https://cloud.githubusercontent.com/assets/198/16896040/7ae0f724-4b3c-11e6-9668-798add1c6f68.jpg"
+width="420px">
+
+<img alt="bag removed"
+src="https://cloud.githubusercontent.com/assets/198/16896046/917c54a6-4b3c-11e6-89e7-49e5149c2ae3.jpg"
+width="420px">
+
+Turn on the flame again to a rolling boil for 60 minutes.
+Add hops.
+
+<img alt="hops being poured into kettle"
+src="https://cloud.githubusercontent.com/assets/198/16896052/d48aff18-4b3c-11e6-9c91-e45c7a894b38.jpg"
+width="420px">
+
+Create ice-water bath in the sink.
+Turn off the flame.
+Move pot into ice-water bath.
+Let the pot cool in the bath until wort is at 70 degrees.
+
+Sanitize the fermenter bucket.
+Add second mesh bag around top of fermenter bucket.
+Pour the wort from the pot into the fermenter.
+
+<img alt="move wort to fermenter"
+src="https://cloud.githubusercontent.com/assets/198/16896061/f44499ae-4b3c-11e6-9d42-12c07b8bad62.jpg"
+width="420px">
+
+<img alt="remove filtering bag"
+src="https://cloud.githubusercontent.com/assets/198/16896065/0baf537c-4b3d-11e6-80fd-4b231beceea9.jpg"
+width="420px">
+
+Keep dog away from mash.
+
+<img alt="keep dog away from mash"
+src="https://cloud.githubusercontent.com/assets/198/16896047/a36bf5d6-4b3c-11e6-8c28-4e57003794c7.jpg"
+width="420px">
+
+Use thief to take sample of beer into test tube.
 [Measure gravity][gravity].
 
-[gravity]: procedures.md#measure-gravity
+[gravity]: #measure-gravity
 
-Replace rubber stopper and airlock.
+<img alt="use thief"
+src="https://cloud.githubusercontent.com/assets/198/16896071/30b461da-4b3d-11e6-9f3d-3640e0708ee4.jpg"
+width="420px">
 
-Bring 1 cup of water to a boil in a small saucepan.
-Turn off the flame.
-Stir in 4.5 oz dextrose (priming corn sugar) until fully dissolved.
+<img alt="take gravity reading with hydrometer"
+src="https://cloud.githubusercontent.com/assets/198/16896076/656fbcd0-4b3d-11e6-8b7b-ae72f45a3d51.jpg"
+width="420px">
 
-Place secondary fermenter on a table.
-Carefully pour priming mixture into fermenter.
-Wait 30m or until sediment re-settles.
+Wait until wort is at 65-72 degrees (see yeast package).
+Pitch the yeast into the wort.
 
-Sanitize auto-siphon, tubing, bottle filler, and bottle caps.
-Add a drop of Star-San to each clean bottle.
-Rinse each bottle with water.
-Spray thief, test tube, and hydrometer with Star-San.
+Snap on the lid.
+Rock the fermenter to aerate the wort.
 
-Insert siphon tube halfway into secondary fermenter
-and stir slowly for a minute.
-While holding the siphon half way into the fermenter,
-raise the inner tube to draw beer into the larger outer tube.
+Fill airlock with small amount of clean water.
+Insert the rubber stopper and airlock.
 
-Have a friend push down on the bottle filler inside a bottle
-so the spring-valve opens.
-Now push the smaller siphon tube down into the larger tube,
-forcing the beer up and through.
-Gently lower the siphoning unit to the bottom of the carboy.
-
-Fill bottles almost all the way,
-as removal of the filler leaves the proper amount of head space
-in the bottles (about an inch).
-
-Allow the bottles to sit with the caps sitting loosely on top
-until all the bottles are full so that carbon dioxide
-has a chance to accumulate in the head space and displace
-any unwanted oxygen.
-
-Use the bottle capper to fasten the bottle caps on tightly.
-
-## Brew In A Bag (BIAB)
-
-The [Basics of BIAB][basics].
-
-[basics]: http://biabrewer.info/viewtopic.php?f=25&t=194&sid=04e1faaa161ad924c83558c34a7d7abf
-
-1. All liquor needed for the brew is added to the kettle and heated to strike
-   temperature.
-1. At strike temperature, a bag is added to the kettle and the entire grain
-   bill is added to start the mash.
-1. The mash temperature/s is/are maintained by occasional heat applications
-   and stirring for usually 90 minutes.
-1. The bag which holds the mash is removed at the end of the mash period or,
-   alternatively, after a mashout. The action of removing the bag leaves the
-   sweet liquor (or wort) in the kettle ready to be boiled.
+<img alt="fermenter with lid snapped on and airlock in"
+src="https://cloud.githubusercontent.com/assets/198/16896080/8f028352-4b3d-11e6-9a68-e68eef8e9b3b.jpg"
+width="420px">
 
 ## Measure gravity
 
@@ -118,7 +151,7 @@ Use this [ABV calculator][abv-calc] to calculate ABV.
 
 [abv-calc]: http://www.brewersfriend.com/abv-calculator/
 
-## Kegging
+## Keg
 
 [![How to Keg](https://cloud.githubusercontent.com/assets/198/19420122/d1e12526-9399-11e6-9b14-afc101f4c732.png)][how-to-keg]
 
@@ -165,3 +198,47 @@ Disconnect the gas, let the keg settle for about an hour.
 To sample, attach gas line and beer line.
 My gas line and beer lines are each 5 feet, 3/16".
 Set gas to 10-20 PSI range, to taste.
+
+## Bottle
+
+Remove rubber stopper and airlock.
+[Measure gravity][gravity].
+
+[gravity]: procedures.md#measure-gravity
+
+Replace rubber stopper and airlock.
+
+Bring 1 cup of water to a boil in a small saucepan.
+Turn off the flame.
+Stir in 4.5 oz dextrose (priming corn sugar) until fully dissolved.
+
+Place secondary fermenter on a table.
+Carefully pour priming mixture into fermenter.
+Wait 30m or until sediment re-settles.
+
+Sanitize auto-siphon, tubing, bottle filler, and bottle caps.
+Add a drop of Star-San to each clean bottle.
+Rinse each bottle with water.
+Spray thief, test tube, and hydrometer with Star-San.
+
+Insert siphon tube halfway into secondary fermenter
+and stir slowly for a minute.
+While holding the siphon half way into the fermenter,
+raise the inner tube to draw beer into the larger outer tube.
+
+Have a friend push down on the bottle filler inside a bottle
+so the spring-valve opens.
+Now push the smaller siphon tube down into the larger tube,
+forcing the beer up and through.
+Gently lower the siphoning unit to the bottom of the carboy.
+
+Fill bottles almost all the way,
+as removal of the filler leaves the proper amount of head space
+in the bottles (about an inch).
+
+Allow the bottles to sit with the caps sitting loosely on top
+until all the bottles are full so that carbon dioxide
+has a chance to accumulate in the head space and displace
+any unwanted oxygen.
+
+Use the bottle capper to fasten the bottle caps on tightly.

@@ -5,6 +5,12 @@ Mostly from [AHA's Homebrewpedia][AHA].
 
 [AHA]: http://wiki.homebrewersassociation.org/BrewingTerms
 
+## Aerate
+
+> The action of impregnating with or exposing to air at various stages of the
+> brewing process. Aerating the cooled wort, for example, favors the growth and
+> multiplication of yeast cells before fermentation begins.
+
 ## Alcohol By Volume
 
 Abbrev: v/v
@@ -57,6 +63,22 @@ or do it more manually with [these brewhouse efficiency formulas][brew-form].
 [under]: http://www.braukaiser.com/wiki/index.php?title=Understanding_Efficiency
 [brew-calc]: http://www.brewersfriend.com/brewhouse-efficiency/
 [brew-form]: http://learn.kegerator.com/brewhouse-efficiency/
+
+## Brew In A Bag (BIAB)
+
+All water needed for the brew is added to the kettle
+and heated to strike temperature.
+
+At strike temperature,
+a bag is added to the kettle
+and the entire grain bill is added to start the mash.
+
+The mash temperature/s is/are maintained by occasional heat applications
+and stirring for usually 90 minutes.
+
+The bag which holds the mash is removed at the end of the mash period.
+Removing the bag leaves the sweet liquor (wort) in the kettle
+ready to be boiled.
 
 ## Calcium chloride
 

@@ -1,4 +1,4 @@
-# Batch 1, Hop-Bursted IPA
+# Hop-Bursted IPA
 
 Hop-bursted IPA, 5 gallons, partial mash, bottled.
 

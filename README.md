@@ -7,19 +7,20 @@ See [definitions] and [procedures].
 
 ## Batches
 
-* [Batch 1, Hop-Bursted IPA][1] (good)
-* [Batch 2, Belgian Farmhouse Ale][2] (good)
-* [Batch 3, Heady Topper][3] (bad)
-* [Batch 4, SMASH Nelson][4] (okay)
-* [Batch 5, Belgian Saison][5] (okay)
-* [Batch 6, Northeast IPA][6] (?)
+Brew dates:
 
-[1]: batches/1-hop-bursted-ipa.md
-[2]: batches/2-belgian-farmhouse-ale.md
-[3]: batches/3-heady-topper.md
-[4]: batches/4-smash-nelson.md
-[5]: batches/5-belgian-saison.md
-[6]: batches/6-northeast-ipa.md
+1. 2016-06-05 [Hop-Bursted IPA][1] (good)
+1. 2016-07-09 [Belgian Farmhouse Ale][2] (good)
+1. 2016-07-31 [Heady Topper][3] (bad)
+1. 2016-09-25 [SMASH Nelson][4] (okay)
+1. 2016-11-27 [Belgian Saison][5] (okay)
+1. 2017-04-22 [New England IPA][neipa] (?)
+
+[1]: recipes/hop-bursted-ipa.md
+[2]: recipes/belgian-farmhouse-ale.md
+[3]: recipes/heady-topper.md
+[4]: recipes/smash-nelson.md
+[5]: recipes/belgian-saison.md
 
 ## Ideas
 
@@ -31,13 +32,13 @@ to scale recipe sizes up and down.
 ### IPA
 
 * [Australian IPA][australian-ipa]
-* [Hill Farmstead James IPA][james]
 * [Maine Beer Company MO][mo]
+* [New England IPA][neipa]
 * [Pliny the Elder][pliny-the-elder]
 
 [australian-ipa]: recipes/australian-ipa.md
-[james]: recipes/hill-farmstead-james-ipa.md
 [mo]: recipes/maine-beer-company-mo.md
+[neipa]: recipes/new-england-ipa.md
 [pliny-the-elder]: recipes/pliny-the-elder.md
 
 ### Saison
