@@ -1,4 +1,4 @@
-# Hop-Bursted IPA
+# West Coast IPA I
 
 Hop-bursted IPA, 5 gallons, partial mash, bottled.
 
@@ -42,7 +42,7 @@ Yeast:
 
 [yeast]: http://www.sanfranciscobrewcraft.com/product_p/yd120.htm
 
-## Brew day
+## Brewing notes
 
 Sunday, June 5, 2016
 

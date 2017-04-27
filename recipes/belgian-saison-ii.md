@@ -1,4 +1,4 @@
-# Belgian Farmhouse Ale
+# Belgian Saison II
 
 * O.G. 1.062
 * F.G. 1.021

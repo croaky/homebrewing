@@ -9,25 +9,20 @@ See [definitions] and [procedures].
 
 Brew dates:
 
-1. 2016-06-05 [Hop-Bursted IPA][1] (good)
-1. 2016-07-09 [Belgian Farmhouse Ale][2] (good)
-1. 2016-07-31 [Heady Topper][3] (bad)
-1. 2016-09-25 [SMASH Nelson][4] (okay)
-1. 2016-11-27 [Belgian Saison][5] (okay)
-1. 2017-04-22 [New England IPA][neipa] (?)
+* 2017-04-22 [New England IPA II][neipa] (?)
+* 2016-11-27 [Belgian Saison II][5] (okay)
+* 2016-09-25 [SMASH Nelson IPA][4] (okay)
+* 2016-07-31 [New England IPA II][3] (bad)
+* 2016-07-09 [Belgian Saison I][2] (good)
+* 2016-06-05 [West Coast IPA I][1] (good)
 
-[1]: recipes/hop-bursted-ipa.md
-[2]: recipes/belgian-farmhouse-ale.md
-[3]: recipes/heady-topper.md
-[4]: recipes/smash-nelson.md
-[5]: recipes/belgian-saison.md
+[5]: recipes/belgian-saison-ii.md
+[4]: recipes/smash-nelson-ipa.md
+[3]: recipes/new-england-ipa-i.md
+[2]: recipes/belgian-saison-i.md
+[1]: recipes/west-coast-ipa-i.md
 
-## Ideas
-
-Use [this recipe calculator][scale]
-to scale recipe sizes up and down.
-
-[scale]: http://www.captainbrew.com/create-recipe
+## Recipes
 
 ### IPA
 
@@ -38,7 +33,7 @@ to scale recipe sizes up and down.
 
 [australian-ipa]: recipes/australian-ipa.md
 [mo]: recipes/maine-beer-company-mo.md
-[neipa]: recipes/new-england-ipa.md
+[neipa]: recipes/new-england-ipa-ii.md
 [pliny-the-elder]: recipes/pliny-the-elder.md
 
 ### Saison

@@ -1,8 +1,11 @@
-# Belgian Saison
+# Belgian Saison I
 
-5 gallons, O.G 1.062, F.G. 1.01, ABV 6.8%, kegged in 26 days
+* 5 gallons
+* O.G 1.062
+* F.G. 1.01
+* ABV 6.8%
 
-## Brew day
+## Ingredients
 
 Grains:
 
@@ -37,8 +40,7 @@ Yeast:
 
 Ferment at 68°-78°F:
 
-* 6 days primary (plastic bucket)
-* 10-20 days in secondary (glass carboy)
+* 26 days primary (plastic bucket)
 * [Keg]
 
 [Keg]: ../procedures.md#keg

@@ -1,8 +1,9 @@
-# Heady Topper
+# New England IPA I
 
 Intense hop, fruity pineapple, dank piney-peach, two dry-hoppings.
 
-3.5 gallons, O.G 1.085, ready in 6 weeks
+* 3.5 gallons
+* O.G 1.085
 
 ## Ingredients
 

@@ -14,8 +14,9 @@ DONTs:
 
 * [Mash out][under]
 * [No chill][no-chill]
-* Add Whirlfloc or Irish moss for clarity. Keep it hazy.
-* No secondary fermentation in glass carboy.
+* Add Whirlfloc or Irish moss to remove beautiful haze
+* Secondary fermentation in glass carboy
+* Add candy sugar
 
 [under]: http://www.braukaiser.com/wiki/index.php?title=Understanding_Efficiency
 [no-chill]: http://brulosophy.com/2015/02/09/a-year-of-no-chill-lessons-from-a-secret-xbmt/
