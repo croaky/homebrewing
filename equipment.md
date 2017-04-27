@@ -9,7 +9,6 @@ Brew day:
 * [Stainless steel mash paddle][paddle] ($10)
 * 2 [mesh bag for BIAB][bag] ($12)
 * 1oz [Fermcap-S][fermcap] ($4)
-* [Whirlfloc][tablets] $3)
 * [Thief][thief] ($9)
 * [Hydrometer][hydro] ($7)
 * [6.5 gallon food-grade fermentation bucket with spigot][bucket] ($24)
@@ -30,14 +29,17 @@ Brew day:
 [therm]: http://www.sanfranciscobrewcraft.com/product_p/eq224.htm
 [thief]: https://squareup.com/store/blacksandsbeer/item/thief
 
-Racking day:
+Kegging day:
 
-* StarSan sanitizer
-* [5-gallon glass carboy][carboy] ($40)
-* [Plastic hoses][hose] ($5)
+* 2 [ball lock ("Cornelius") 5-gallon keg][keg] ($30 each on Craigslist)
+* [CO2 tank][co2] ($35-$135)
+* [C02 regulator][regulator] ($70)
+* [Cornelius keg cooler][cooler] ($40)
 
-[carboy]: http://www.sanfranciscobrewcraft.com/product_p/eq215.htm
-[hose]: http://www.sanfranciscobrewcraft.com/product_p/eq329.htm
+[keg]: https://squareup.com/store/blacksandsbeer/item/keg
+[co2]: https://squareup.com/store/blacksandsbeer/item/co-tank-lb
+[regulator]: https://squareup.com/store/blacksandsbeer/item/co-regulator
+[cooler]: http://www.cool-brewing.com/hot-new-products/
 
 Bottling day:
 
@@ -62,17 +64,3 @@ Wort chiller:
 * [King Cobra] ($175)
 
 [King Cobra]: http://jadedbrewing.com/products/the-king-cobra
-
-Kegging options:
-
-* [Ball lock ("Cornelius") 5-gallon keg][keg] ($135)
-* [CO2 tank][co2] ($35-$135)
-* [C02 regulator][regulator] ($70)
-* [Flex keg system][flex] ($360)
-* [Cornelius keg cooler][cooler] ($40)
-
-[keg]: https://squareup.com/store/blacksandsbeer/item/keg
-[co2]: https://squareup.com/store/blacksandsbeer/item/co-tank-lb
-[regulator]: https://squareup.com/store/blacksandsbeer/item/co-regulator
-[cooler]: http://www.cool-brewing.com/hot-new-products/
-[flex]: http://www.midwestsupplies.com/draft-brewer-flex-keg-system.html
