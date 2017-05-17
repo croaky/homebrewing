@@ -9,7 +9,8 @@ See [definitions] and [procedures].
 
 Brew dates:
 
-* 2017-04-22 [New England IPA II][neipa] (?)
+* 2017-05-17 [New England IPA III][neipa-iii] (?)
+* 2017-04-22 [New England IPA II][neipa-ii] (good)
 * 2016-11-27 [Belgian Saison II][5] (okay)
 * 2016-09-25 [SMASH Nelson IPA][4] (okay)
 * 2016-07-31 [New England IPA II][3] (bad)
@@ -28,12 +29,13 @@ Brew dates:
 
 * [Australian IPA][australian-ipa]
 * [Maine Beer Company MO][mo]
-* [New England IPA][neipa]
+* [New England IPA][neipa-ii]
 * [Pliny the Elder][pliny-the-elder]
 
 [australian-ipa]: recipes/australian-ipa.md
 [mo]: recipes/maine-beer-company-mo.md
-[neipa]: recipes/new-england-ipa-ii.md
+[neipa-ii]: recipes/new-england-ipa-ii.md
+[neipa-iii]: recipes/new-england-ipa-iii.md
 [pliny-the-elder]: recipes/pliny-the-elder.md
 
 ### Saison

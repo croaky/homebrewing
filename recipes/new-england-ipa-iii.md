@@ -1,8 +1,8 @@
-# New England IPA II
+# New England IPA III
 
 Hazy, hoppy, soft mouthfeel, not overly bitter.
 
-* 3.5 gallons
+* 5 gallons
 * O.G. 1.060-1.065
 * F.G. 1.012
 * ABV 6-7%
@@ -12,19 +12,20 @@ Hazy, hoppy, soft mouthfeel, not overly bitter.
 Water:
 
 * 6.5 gallons San Francisco tap
+* 3g calcium chloride (CaCl2) for softness
 
 Grains:
 
 * 9 lbs (90%) 2-row pale ale
-* 0.5 lbs (5%) flaked oats
+* 0.5 lbs (5%) flaked barley
 * 0.5 lbs (5%) flaked wheat
 
 Hops:
 
 * 1 oz Nugget (60m)
-* 1 oz Citra + 1oz Galaxy + 1oz Mosaic (10m)
-* 1 oz Citra + 1oz Galaxy + 1oz Mosaic (0m)
-* 1 oz Citra + 1oz Galaxy + 1oz Mosaic (dry hop day 3)
+* 1 oz Citra + 1oz Amarillo + 1oz Mosaic (10m)
+* 1 oz Citra + 1oz Amarillo + 1oz Mosaic (0m)
+* 1 oz Citra + 1oz Amarillo + 1oz Mosaic (dry hop day 3)
 
 Yeast, any commercial culture of "Conan":
 
