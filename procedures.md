@@ -92,6 +92,8 @@ Keep dog away from mash.
 src="https://cloud.githubusercontent.com/assets/198/16896047/a36bf5d6-4b3c-11e6-8c28-4e57003794c7.jpg"
 width="420px">
 
+Top off with tap water if at less than 5 gallons.
+
 Use thief to take sample of beer into test tube.
 [Measure gravity][gravity].
 
@@ -105,7 +107,7 @@ width="420px">
 src="https://cloud.githubusercontent.com/assets/198/16896076/656fbcd0-4b3d-11e6-8b7b-ae72f45a3d51.jpg"
 width="420px">
 
-Wait until wort is at 65-72 degrees (see yeast package).
+Wait until wort is at 70 degrees (see yeast package).
 Pitch the yeast into the wort.
 
 Snap on the lid.
@@ -184,10 +186,10 @@ This purges any remaining air from head space in keg,
 avoiding oxidation.
 
 Use [Table 1 in "How to Keg"][how-to-keg] to determine target PSI.
-For my typical 3.5 gallons after a BIAB,
+For my typical 5 gallons after a BIAB,
 for saisons and IPAs,
 after a cold crash,
-I target a 10-15 PSI range.
+I target a 15-20 PSI range.
 
 Set the target PSI, turn gas on.
 Listen for gas to flow,
@@ -198,7 +200,7 @@ Disconnect the gas, let the keg settle for about an hour.
 
 To sample, attach gas line and beer line.
 My gas line and beer lines are each 5 feet, 3/16".
-Set gas to 10-20 PSI range, to taste.
+Set gas to 5-10 PSI range, to taste.
 
 ## Bottle
 

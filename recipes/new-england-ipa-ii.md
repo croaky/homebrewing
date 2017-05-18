@@ -36,7 +36,7 @@ Yeast, any commercial culture of "Conan":
 
 ## Brewing notes
 
-* Ferment at 68°-78°F for 10 days in plastic bucket
+* Ferment at 65°-69°F (see yeast package) for 10 days in plastic bucket
 * [Keg] at 10 days
 
 [Keg]: ../procedures.md#keg
