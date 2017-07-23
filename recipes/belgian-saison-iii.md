@@ -29,7 +29,10 @@ Grains:
 Hops:
 
 * 1 oz [Citra][citra] (60m)
-* 4 oz Citra (0m)
+* 1 oz Citra (15m)
+* 1 oz Citra (10m)
+* 1 oz Citra (5m)
+* 1 oz Citra (0m)
 * 1 oz [Mosaic][mosaic] (dry hop day 3)
 
 [citra]: https://squareup.com/market/blacksandsbeer/item/citra
