@@ -9,7 +9,8 @@ See [definitions] and [procedures].
 
 Brew dates:
 
-* 2017-05-17 [New England IPA III][neipa-iii] (?)
+* 2017-07-23 [Belgian Saison III][saison-iii] (?)
+* 2017-05-17 [New England IPA III][neipa-iii] (never fermented)
 * 2017-04-22 [New England IPA II][neipa-ii] (good)
 * 2016-11-27 [Belgian Saison II][5] (okay)
 * 2016-09-25 [SMASH Nelson IPA][4] (okay)
@@ -17,6 +18,7 @@ Brew dates:
 * 2016-07-09 [Belgian Saison I][2] (good)
 * 2016-06-05 [West Coast IPA I][1] (good)
 
+[saison-iii]: recipes/belgian-saison-iii.md
 [5]: recipes/belgian-saison-ii.md
 [4]: recipes/smash-nelson-ipa.md
 [3]: recipes/new-england-ipa-i.md
